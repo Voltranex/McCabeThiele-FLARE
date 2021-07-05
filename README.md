@@ -2,7 +2,7 @@
 
 The McCabe–Thiele method is considered to be the simplest and perhaps most instructive method for the analysis of binary distillation. This MATLAB script allows 2 main features. One of them is using excel database to draw boiling point curve and equilibrium diagram of binary components using the combination of Antoine equation and Raoult's law. Second methods is takes the xA, yA equilibrium values to draw equilibrium diagram. 
 
-After equilibrium diagram draw, the second script called graphandler performs McCabe-Thiele method to calculate theorotical stage number, minimmum stage number and minimum reflux ratio graphically. Just run the mcCabeThiele.m file,
+After equilibrium diagram drawn, the second script called graphandler performs McCabe-Thiele method to calculate theorotical stage number, minimmum stage number and minimum reflux ratio graphically. Just run the mcCabeThiele.m file,
 
 Here is the example of usage:
 
