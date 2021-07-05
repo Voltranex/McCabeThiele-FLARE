@@ -51,6 +51,7 @@ Example of q defined feed condition;
 
 Here is the results of  McCabeThiele method
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861535278555856896/McCabe-Thiele.png)
+
 Red lines represents theorotical stage number, dashed black line is feed line and the black line represents minimum stage number.
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861536391195262976/Screenshot_13.png?width=953&height=188)
 
