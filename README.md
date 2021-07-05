@@ -11,7 +11,7 @@ Choosing the method
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861530604251250698/Screenshot_1.png)
 
 # Method a (From database)
-Number of the components choosen from component list.pdf than pressure of the system is defined
+Number of the components choosen from component list.pdf than pressure of the system is defined (500 components)
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861530992593862656/Screenshot_2.png)
 
 Here is the output of the Benzene and Toluen binary mixture;
