@@ -43,12 +43,17 @@ xA, yA values must be an array as shown below.
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861534005584592927/Screenshot_8.png)
 Here is the output without McCabeThiele method
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861535485864050698/untitled.png)
+
 Example of q defined feed condition;
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861534006813917184/Screenshot_9.png)
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861534008441176084/Screenshot_10.png)
-Here is the result of q defined operation mode
-![alt text](https://media.discordapp.net/attachments/861530555715682304/861535278555856896/McCabe-Thiele.png)
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861534009438896188/Screenshot_11.png)
+
+Here is the results of  McCabeThiele method
+![alt text](https://media.discordapp.net/attachments/861530555715682304/861535278555856896/McCabe-Thiele.png)
+Red lines represents theorotical stage number, dashed black line is feed line and the black line represents minimum stage number.
+![alt text](https://media.discordapp.net/attachments/861530555715682304/861536391195262976/Screenshot_13.png?width=953&height=188)
+
 
 Thank you for time, for any suggestion or possible bug contact with me via e-mail or pull a request.
 
