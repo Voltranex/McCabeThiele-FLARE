@@ -16,7 +16,7 @@ Number of the components choosen from component list.pdf than pressure of the sy
 
 Here is the output of the Benzene and Toluen binary mixture;
 <a href="https://github.com/Voltranex/McCabeThiele/edit/main/README.md">
-  <img align="left" src="https://media.discordapp.net/attachments/861530555715682304/861531660243042304/antonie.png" />
+  <img align="left" src="https://media.discordapp.net/attachments/861530555715682304/862984125496557568/antonie.png" />
 </a>
 <a href="https://github.com/Voltranex/McCabeThiele/edit/main/README.md">
   <img align="center" src="https://media.discordapp.net/attachments/861530555715682304/861531661027246080/Antoniexaya.png" />
