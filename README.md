@@ -59,6 +59,12 @@ Here is the results of  McCabeThiele method
 Red lines represents theorotical stage number, dashed black line is feed line and the black line represents minimum stage number.
 ![alt text](https://media.discordapp.net/attachments/861530555715682304/861536391195262976/Screenshot_13.png?width=953&height=188)
 
+# Update V-0.1 | 25.07.2021
+
+Now user make a choice about to on/off mode of Minimum stage calculation.
+Here is the example of McCabe–Thiele method without Minimum stages
+
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/868619362028884010/McCabe-Thiele.png)
 
 Thank you for time, for any suggestion or possible bug contact with me via e-mail or pull a request.
 
