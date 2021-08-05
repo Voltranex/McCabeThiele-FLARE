@@ -66,7 +66,7 @@ Here is the example of McCabe–Thiele method without minimum stages
 
 ![alt text](https://cdn.discordapp.com/attachments/861530555715682304/868619362028884010/McCabe-Thiele.png)
 
-Thank you for time, for any suggestion or possible bug contact with me via e-mail or pull a request.
+Thank you for your time, for any suggestion or possible bug contact with me via e-mail or pull a request.
 
 
 
