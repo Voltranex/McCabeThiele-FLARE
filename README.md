@@ -1,7 +1,41 @@
-# McCabe–Thiele method
+# FLARE | McCabe-Thiele method performer developed on MATLAB
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884040839750381578/scd.PNG)
 
-The McCabe–Thiele method is considered to be the simplest and perhaps most instructive method for the analysis of binary distillation. This MATLAB script allows 2 main features. One of them is using excel database to draw boiling point curve and equilibrium diagram of binary components using the combination of Antoine equation and Raoult's law. Second methods is takes the xA, yA equilibrium values from user to draw equilibrium diagram. 
+FLARE is open source McCabe-Thiele method performer designed on MATLAB App Designer and compatible with R2016a and above MATLAB versions. Also with .exe file FLARE can be used without MATLAB installed.
 
+Features
+
+-Works with both database and user defined equilibrium values 
+
+-500 component database
+
+-Fast response for different design parameters
+
+-Easy to understand error panel
+
+-With or without minimum stage number calculations
+
+On the database tab two components are selected from drop-down menus. For user defined tab xA and yA  equilibrium values defined with space.
+After that on the left side of the app McCabe-Thiele method parameters such as feed condition, bottom fraction(xB), top fraction (xD) and feed composition (xF)
+and reflux ratio values should be added in order to perform McCabe-Thiele method.
+
+xA - yA equilibrium values calculated using the combination of Antoine equation and Raoult's law from Database
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041877492473856/database.PNG)
+
+xA - yA values defined by user
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041860933382175/userdefined.PNG)
+
+About section
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041869380710480/about.PNG)
+
+Error panel
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884043849012477952/errorpanel.PNG)
+
+You can find the files on Releases section right under the About part.
+
+# Old version runs on MATLAB Editor
+
+This MATLAB script allows 2 main features. One of them is using excel database to draw boiling point curve and equilibrium diagram of binary components using the combination of Antoine equation and Raoult's law. Second methods is takes the xA, yA equilibrium values from user to draw equilibrium diagram. 
 After equilibrium diagram drawn, the second script called graphandler.m performs McCabe-Thiele method to calculate theorotical stage number, minimmum stage number and minimum reflux ratio graphically. Just run the mcCabeThiele.m file,
 
 Here is the example of usage:
