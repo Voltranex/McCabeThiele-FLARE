@@ -31,7 +31,7 @@ Error panel
 About section
 ![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041869380710480/about.PNG)
 
-[Download links](https://github.com/Voltranex/McCabeThiele-FLARE/releases) 
+# [Download links](https://github.com/Voltranex/McCabeThiele-FLARE/releases) 
 
 # Old version runs on MATLAB Editor
 
