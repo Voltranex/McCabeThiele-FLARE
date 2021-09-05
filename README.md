@@ -25,11 +25,11 @@ xA - yA equilibrium values calculated using the combination of Antoine equation 
 xA - yA values defined by user
 ![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041860933382175/userdefined.PNG)
 
-About section
-![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041869380710480/about.PNG)
-
 Error panel
 ![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884043849012477952/errorpanel.PNG)
+
+About section
+![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041869380710480/about.PNG)
 
 You can find the files on Releases section right under the About part.
 
