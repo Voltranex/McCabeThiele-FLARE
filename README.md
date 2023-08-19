@@ -15,6 +15,8 @@ Features
 
 -With or without minimum stage number calculations
 
+-Optimum feed condition finder
+
 On the database tab two components are selected from drop-down menus. For user defined tab xA and yA  equilibrium values defined with space.
 After that on the left side of the app McCabe-Thiele method parameters such as feed condition, bottom fraction(xB), top fraction (xD) and feed composition (xF)
 and reflux ratio values should be added in order to perform McCabe-Thiele method.
@@ -27,6 +29,9 @@ xA - yA values defined by user
 
 Error panel
 ![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884043849012477952/errorpanel.PNG)
+
+Optimum Feed Condition Section
+![alt text](https://cdn.discordapp.com/attachments/789864720533291058/1142451276257439855/Ekran_Alnts.PNG)
 
 About section
 ![alt text](https://cdn.discordapp.com/attachments/861530555715682304/884041869380710480/about.PNG)
