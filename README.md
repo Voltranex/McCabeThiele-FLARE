@@ -107,6 +107,8 @@ Here is the example of McCabe–Thiele method without minimum stages
 
 Thank you for your time, for any suggestion or possible bug contact with me via e-mail or pull a request.
 
+Geliştirici: Armağan Erdoğan · reactiveforge.com
+
 
 
 
